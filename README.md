@@ -1,3 +1,1 @@
-# Miscellaneous Deadsnakes Documentation
-
-## [See the wiki](https://github.com/deadsnakes/docs/wiki)
+## [Miscellaneous Deadsnakes Documentation](https://github.com/deadsnakes/docs/wiki)
