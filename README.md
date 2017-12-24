@@ -1,2 +1,2 @@
-# docs
-Miscellaneous documentation for https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+# Miscellaneous Deadsnakes Documentation
+See the [wiki](https://github.com/deadsnakes/docs/wiki).
