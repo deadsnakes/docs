@@ -1,1 +1,3 @@
-## [Miscellaneous Deadsnakes Documentation](https://github.com/deadsnakes/docs/wiki)
+## Miscellaneous Deadsnakes Documentation
+
+- [Building-Deadsnakes-Packages-from-Git.rst](Building-Deadsnakes-Packages-from-Git.rst)
